@@ -72,7 +72,7 @@ function App() {
             <h2
               style={{ textAlign: "center", color: "#888", marginTop: "40px" }}
             >
-              Ground Base Control
+              Mission Ground Base
             </h2>
           )}
 
